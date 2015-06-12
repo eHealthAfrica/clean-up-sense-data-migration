@@ -1,5 +1,5 @@
 {
-  "name": "semantic-age-migration",
+  "name": "clean-up-sense-data-migration",
   "version": "1.0.0",
   "description": "Convert age field from plain numbers intto a more descriptive data structure",
   "bin": { "semantic-age-migration": "bin/main.js" },
@@ -20,9 +20,9 @@
   "author": "Tibor Claassen <tibor@gmah.net> (http://codebeige.net)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/eHealthAfrica/semantic-age-migration/issues"
+    "url": "https://github.com/eHealthAfrica/clean-up-sense-data-migration/issues"
   },
-  "homepage": "https://github.com/eHealthAfrica/semantic-age-migration#readme",
+  "homepage": "https://github.com/eHealthAfrica/clean-up-sense-data-migration#readme",
   "devDependencies": {
     "tape": "^4.0.0",
     "tape-dots": "^1.0.0"
