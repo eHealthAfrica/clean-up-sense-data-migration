@@ -1,3 +1,4 @@
 'use strict'
 
-require('./migrate')
+require('./age')
+require('./interviewer')

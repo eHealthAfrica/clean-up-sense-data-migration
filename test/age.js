@@ -11,7 +11,7 @@ test('skips docs without age', function (t) {
   t.end()
 })
 
-test('skips docs that already have curent age format', function (t) {
+test('skips docs that already have current age format', function (t) {
   var doc = { _id: '123', age: {} }
   var result = migrate(doc)
   t.equal(result, null)
