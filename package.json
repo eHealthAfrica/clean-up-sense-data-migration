@@ -1,8 +1,10 @@
 {
   "name": "clean-up-sense-data-migration",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Convert age field from plain numbers intto a more descriptive data structure",
-  "bin": { "semantic-age-migration": "bin/main.js" },
+  "bin": {
+    "semantic-age-migration": "bin/main.js"
+  },
   "scripts": {
     "test": "tape-dots test/index.js"
   },
